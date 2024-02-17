@@ -53,6 +53,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+.next/
 
 # Distribution directories
 dist/
@@ -74,3 +75,4 @@ typings/
 
 # Yarn Integrity file
 .yarn-integrity
+
